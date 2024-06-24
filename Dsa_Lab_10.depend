@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1703317943 source:c:\users\whizz\onedrive - higher education commission\3rd sem\dsa\dsa lab\dsa_lab_10\dsa_lab_10\main.cpp
+	<iostream>
+	<AdjMatrix.h>
+	<AdjList.h>
+	<iomanip>
+
+1703314075 c:\users\whizz\onedrive - higher education commission\3rd sem\dsa\dsa lab\dsa_lab_10\dsa_lab_10\include\adjmatrix.h
+	<string>
+
+1703314075 c:\users\whizz\onedrive - higher education commission\3rd sem\dsa\dsa lab\dsa_lab_10\dsa_lab_10\include\adjlist.h
+	<string>
+
+1703317951 source:c:\users\whizz\onedrive - higher education commission\3rd sem\dsa\dsa lab\dsa_lab_10\dsa_lab_10\src\adjlist.cpp
+	"AdjList.h"
+	<iostream>
+	<queue>
+	<string>
+
+1703317865 source:c:\users\whizz\onedrive - higher education commission\3rd sem\dsa\dsa lab\dsa_lab_10\dsa_lab_10\src\adjmatrix.cpp
+	"AdjMatrix.h"
+	<iostream>
+	<queue>
+	<string>
+	<iomanip>
+
